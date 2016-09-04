@@ -4,6 +4,10 @@ $CMP 74xx138
 D 3-to-8 line decoder/demultiplexer, inverting
 $ENDCMP
 #
+$CMP 74xx151
+D 8-1 multiplexer
+$ENDCMP
+#
 $CMP 74xx164
 D 8-bit serial-in/parallel out shift register
 $ENDCMP
