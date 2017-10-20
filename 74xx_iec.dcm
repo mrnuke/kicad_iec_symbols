@@ -20,4 +20,8 @@ $CMP 74xx574
 D Octal D-type flip-flop; positive edge-trigger; 3-state
 $ENDCMP
 #
+$CMP 74xx595
+D 8-bit serial-in/parallel out shift register with latch
+$ENDCMP
+#
 #End Doc Library
